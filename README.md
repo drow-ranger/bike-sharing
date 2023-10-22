@@ -1,15 +1,19 @@
 ## Run Dashboard
 1. Clone Repository
+
 ```https://github.com/drow-ranger/bike-sharing.git```
 
 2. Setup Environment
+
 ```conda create --name bike-sharing python=3.9```
 ```conda activate bike-sharing```
 
 3. Install Library
+
 ```pip install -r requirements.txt```
 
 4. Run Streamlit
+
 ```streamlit run dashboard.py```
 
 
